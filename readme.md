@@ -10,7 +10,7 @@ You are done with this lab when you have managed to display a values counts of t
 
 ## Hints
 
-- Check things that seem foreign in the pandas documentation
+- Inspect the data for outliers or missing data with pandas functionality
 
 - the `.info()` and `.describe()` dataframe functions can help you a lot with finding outliers in data
 
