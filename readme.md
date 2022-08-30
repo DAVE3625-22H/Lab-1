@@ -12,10 +12,10 @@ You are done with this lab when you have managed to display a values counts of t
 
 - Check things that seem foreign in the pandas documentation
 
-- the .info() and .describe() dataframe functions can help you a lot with finding outliers in data
+- the `.info()` and `.describe()` dataframe functions can help you a lot with finding outliers in data
 
 - The teacher might have forgotten to fill out all the grades! (Deal with Nan Values)
-  - Use the .isna() and .dropna() functions to help with cleaning the data
+  - Use the `.isna()` and `.dropna()` functions to help with cleaning the data
 
 
 
